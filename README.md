@@ -10,7 +10,7 @@ How To Play
     - Press (w) to move up
     - Press (s) to move down
     - You can press multiple to move diagonal
- - Each ship that successfully passes you will decrease your lifes
+ - Each ship that successfully passes you will decrease your number of lives
  - Standard rules apply - get hit by laser and lose health; collide and lose health
 
 Potential Add-ons
