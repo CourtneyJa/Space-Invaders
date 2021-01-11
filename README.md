@@ -16,3 +16,5 @@ How To Play
 Potential Add-ons
  
 I'd like to add scoring and the ability to earn more lives by reaching a certain points earned threshold.
+
+Update: I have converted this into an executable using PyInstaller!
